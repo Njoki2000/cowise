@@ -1,0 +1,71 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 50px;
+    margin-bottom: 5px;
+    color: burlywood;
+
+
+}
+
+h2 {
+    text-align:center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: burlywood;
+    margin-bottom: 40px;
+   
+}
+
+.cowise-description {
+   font-family: Arial;
+   text-align: center;
+   color: burlywood;
+   margin-bottom: 100px;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+
+}
+
+h4 {
+   text-align: center;
+   text-decoration: underline;
+   color: brown;
+
+}
+.cowise-vision {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+    margin-bottom: 40px;
+
+
+}
+
+.cowise-mission {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+
+
+
+}
+
+h5 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 15px;
+    color: brown;
+
+}
+
+li {
+    text-align: center;
+
+}
+
